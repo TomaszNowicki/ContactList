@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList", "WindowsFormsApp1\ContactList.csproj", "{4419B1A0-2646-4F1D-A935-AAA63E93F779}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooZwierzyniec", "WindowsFormsApp1\ZooZwierzyniec.csproj", "{4419B1A0-2646-4F1D-A935-AAA63E93F779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
